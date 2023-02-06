@@ -18,7 +18,6 @@
 <a href="https://www.leetcode.com/shivzkewlkid" target="blank">
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivangis04&" alt="shivangis04" /></p>
 
 
 
