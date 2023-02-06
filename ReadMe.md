@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivangis04" alt="shivangis04" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aloobandar01" target="blank"><img src="https://img.shields.io/twitter/follow/aloobandar01?logo=twitter&style=for-the-badge" alt="aloobandar01" /></a> </p>
-
 - 🔭 I’m currently working on [JojodoesC](https://github.com/ShivangiS04/JojodoesC)
 
 - 🌱 I’m currently learning **C and HTML**
@@ -17,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aloobandar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aloobandar01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/shivangi-singh-8b8b5b1b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shivangi-singh-8b8b5b1b2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shivzkewlkid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivzkewlkid" height="30" width="40" /></a>
 <a href="https://discord.gg/shivzkewlkid#2471" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shivzkewlkid#2471" height="30" width="40" /></a>
