@@ -12,4 +12,4 @@ My name is Shivangi Singh
 
 
 
-📫 How to reach me shivanginandini5@gmail.com
+📫 How to reach me shivanginmasterblaster@gmail.com
