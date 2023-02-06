@@ -1,4 +1,47 @@
 
+<h1 align="center">Yo🥷🏼 Shivangi Singh this side😮‍💨</h1>
+<h3 align="center">A passionate programmer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivangis04&label=Profile%20views&color=0e75b6&style=flat" alt="shivangis04" /> </p>
+
+- 🔭 I’m currently working on [JojodoesC](https://github.com/ShivangiS04/JojodoesC)
+
+- 🌱 I’m currently learning **C,HTML,Python and Java**
+
+- 📫 How to reach me **shivangimasterblaster@gmail.com**
+
+- ⚡ Fun fact **I am really cool:)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/shivangi-singh-shivangis04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shivangi-singh-shivangis04" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shivzkewlkid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivzkewlkid" height="30" width="40" /></a>
+<a href="https://discord.gg/2471" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2471" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivangis04&" alt="shivangis04" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shivzkewlkid#2471) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Shivangi-Singh-2626) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Competitive_Blood_66) 
 
