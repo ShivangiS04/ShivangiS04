@@ -11,6 +11,8 @@
 
 - 👯 I’m looking to collaborate on [HTML](https://github.com/ShivangiS04/HTML)
 
+- 📫 How to reach me **shivangimasterblaster@gmail.com**
+
 - ⚡ Fun fact **I Think I am funny:)**
 
 <h3 align="left">Connect with me:</h3>
