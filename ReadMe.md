@@ -1,15 +1,7 @@
-Yo 👋
+* 😮‍💨 My name is Shivangi Singh
 
 
-
-My name is Shivangi Singh
-
+* 🌱 I’m currently learning C and HTML
 
 
-
-🧠 I am currently learning C,HTML
-
-
-
-
-📫 How to reach me shivangimasterblaster@gmail.com
+* 📫 How to reach me: shivangimasterblaster@gmail.com
