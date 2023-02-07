@@ -17,17 +17,10 @@
 <a href="https://linkedin.com/in/https://linkedin.com/in/shivangi-singh-shivangis04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/shivangi-singh-shivangis04" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shivzkewlkid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivzkewlkid" height="30" width="40" /></a>
 
-
-
-
-
-
-
-
-
-
-
-
+  
+  <a href="https://open.spotify.com/user/d8hvew5b2sky6oexjrwviqmgc?si=14b03a4e3de44126"target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+  
+  https://open.spotify.com/user/d8hvew5b2sky6oexjrwviqmgc?si=14b03a4e3de44126
 
 
 
