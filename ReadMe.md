@@ -18,7 +18,7 @@
 <a href="https://www.leetcode.com/shivzkewlkid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivzkewlkid" height="30" width="40" /></a>
 
 <a href="https://www.data-card-for-spotify.com/card?user_id=d8hvew5b2sky6oexjrwviqmgc">
-  <img src="https://www.data-card-for-spotify.com/api/card?user_id=d8hvew5b2sky6oexjrwviqmgc" alt="Data Card for Spotify">
+  <img src="https://www.data-card-for-spotify.com/api/card?user_id=d8hvew5b2sky6oexjrwviqmgc&hide_top_artists=true&hide_top_tracks=true&hide_recents=1" alt="Data Card for Spotify">
 </a>  
   
   
