@@ -17,7 +17,9 @@
 <a href="https://linkedin.com/in/https://linkedin.com/in/shivangi-singh-shivangis04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/shivangi-singh-shivangis04" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shivzkewlkid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivzkewlkid" height="30" width="40" /></a>
 
-  
+<a href="https://www.data-card-for-spotify.com/card?user_id=d8hvew5b2sky6oexjrwviqmgc">
+  <img src="https://www.data-card-for-spotify.com/api/card?user_id=d8hvew5b2sky6oexjrwviqmgc" alt="Data Card for Spotify">
+</a>  
   
   
 
