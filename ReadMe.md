@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **shivangimasterblaster@gmail.com**
 
-- ⚡ Fun fact **I am really cool:)**
+- ⚡ Fun fact **I am really funny:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
