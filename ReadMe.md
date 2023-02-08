@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [JojodoesC](https://github.com/ShivangiS04/JojodoesC)
 
-- 🌱 I’m currently learning **C,HTML and Python**
+- 🌱 I’m currently learning **C,HTML **
 
 - 📫 How to reach me **shivangimasterblaster@gmail.com**
 
