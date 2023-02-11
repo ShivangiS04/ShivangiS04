@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **shivangimasterblaster@gmail.com**
 
-- ⚡ Fun fact **Rajmachawal is my fav:)**
+- ⚡ **
 
 
 
