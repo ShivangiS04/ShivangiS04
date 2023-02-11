@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **shivangimasterblaster@gmail.com**
 
-- ⚡ **
 
 
 
