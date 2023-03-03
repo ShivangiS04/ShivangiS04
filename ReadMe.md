@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivangis04&label=Profile%20views&color=0e75b6&style=flat" alt="shivangis04" /> </p>
 
-- 🔭 I’m currently working on [JojodoesC](https://github.com/ShivangiS04/JojodoesC)
+- 🔭 I’m currently working on [JojodoesC](https://github.com/ShivangiS04/JojodoesC) and [learnJava](https://github.com/tangorishi/learnJava)
 
 - 🌱 I’m currently learning **C++,HTML and Java**
 
