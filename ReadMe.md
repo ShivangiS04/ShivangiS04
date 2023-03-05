@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [JojodoesC](https://github.com/ShivangiS04/JojodoesC) and [learnJava](https://github.com/tangorishi/learnJava)
 
-- 🌱 I’m currently learning **HTML and Java**
+- 🌱 I’m currently learning **HTML,Python and Java**
 
 - 📫 How to reach me **shivangimasterblaster@gmail.com**
 
